@@ -10,13 +10,6 @@ public class BankInfo extends AxisBank {
 		// TODO Auto-generated method stub
 
 	}
-	public static void main(String[] args) {
-		BankInfo a = new BankInfo ();
-	    a.savings();
-		a.fixed();
-		a.deposit();
-		
-	}
 	
 
 }
